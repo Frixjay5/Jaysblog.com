@@ -1,16 +1,16 @@
 <! DOCTYPE html>
    <html>
      <head>
-       <title>jaysblog
+       <title>favicon
       </title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+      <link rel="shortcut icon" type="" href=".ico" />
 
 <meta name="viewport"content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="mystyle.css">
      </head>
 
        <body>
-        
+        <script src="js script.js"></script>
         <header>
             <form action="http://www.google.com/search" method="get"> <fieldset> <input type="hidden" name="sitesearch" value="yoursite.com"/> <input type="text" name="q" size="150" maxlength="100" value="" /> <input type="submit" value="Google Search" /> </fieldset> </form>
      <div>
